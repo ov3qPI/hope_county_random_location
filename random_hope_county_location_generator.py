@@ -6,7 +6,7 @@ regions = {
     'Henbane': [
         "8-Bit Pizza Bar", "Abercrombie Residence", "Administrator's Cabin", "Ancient Bison Tunnel", "Angel's Peak",
         "Aubrey's Diner", "Barlow Residence", "Boshaw Manor", "Bright Warden Radon Spa", "Camp Cougars",
-        "Can of Worms Fishing Store", "Chan Residence", "Church of Eden's Gate", "Counselor's Cabin", "Dead Man's Mill",
+        "Can of Worms Fishing Store", "Chan Residence", "Counselor's Cabin", "Dead Man's Mill",
         "Deep North Water Treatment Plant", "Deer Tiger Mine", "Dire Wolf Basin", "Drubman Marina", "Eden's Altar",
         "Eden's Convent", "Eden's Gate Outreach Center", "Faith's Gate", "Feeney Residence", "Gethsemane Greenhouse",
         "Ghost Cat Mine", "Grimalkin Radon Mine", "Harrison Lookout Tower", "Henbane River Chalets", "Henbane River Station",
@@ -45,7 +45,7 @@ regions = {
         "Red Tail Cabin", "Salvage Camp", "Silver Lake", "Silver Lake Parking Lot", "Snowshoe Lake", "South Park Entrance",
         "Stone Ridge Chalet", "Stone Ridge Training Post", "The Grill Streak", "Valley View Overlook",
         "Whitetail Mountains Rail Bridge", "Whitetail Park Ranger Station", "Whitetail Park Visitor Center",
-        "Whitetail Ranger Station", "Widow's Creek", "Wishbone Lake", "Wolf's Den"
+        "Whitetail Ranger Station (Unmarked)", "Widow's Creek", "Wishbone Lake", "Wolf's Den"
     ]
 }
 
