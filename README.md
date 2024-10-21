@@ -14,7 +14,7 @@ Generates a random location from the game Far Cry 5, either from a specific regi
 To run the script, use the following command:
 
 ```sh
-python fc5_location_generator.py [-r REGION]
+python random_hope_county_location.py [-r REGION]
 ```
 
 ### Arguments
@@ -28,11 +28,11 @@ If no region is specified, the script will generate a location from all availabl
 ### Examples
 - Generate a location from any region:
   ```sh
-  python fc5_location_generator.py
+  python random_hope_county_location.py
   ```
 - Generate a location specifically from the **Henbane** region:
   ```sh
-  python fc5_location_generator.py -r Henbane
+  python random_hope_county_location.py -r Henbane
   ```
 
 ## Code Structure
